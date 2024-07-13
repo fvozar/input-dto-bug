@@ -8,3 +8,12 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+/.idea/.gitignore
+/.idea/api-platform-bug.iml
+/.idea/codeception.xml
+/.idea/dataSources.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/phpspec.xml
+/.idea/phpunit.xml
+/.idea/vcs.xml
